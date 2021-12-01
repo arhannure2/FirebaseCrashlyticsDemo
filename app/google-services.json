@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39729770221",
+    "project_id": "ducfirebasecrashlyticsdemo",
+    "storage_bucket": "ducfirebasecrashlyticsdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39729770221:android:60026274cf3a3db98ce6e4",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39729770221-ngjfi85d2v25db3nlr5a0l3mec96em5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecrashlytics",
+            "certificate_hash": "77313ff9db75980f92de2b0581434a267a959995"
+          }
+        },
+        {
+          "client_id": "39729770221-q6p3tesh3q0hoa79cpm7scngm6qphmqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAetkujYFcAJFUyuYoFtqupias_COpEqJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39729770221-q6p3tesh3q0hoa79cpm7scngm6qphmqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

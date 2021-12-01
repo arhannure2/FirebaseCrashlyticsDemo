@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">Firebase Crashlytics</string>
+	<string name="app_name_title">Firebase Crashlytics &amp; Analytics </string>
+	<string name="description">	Once application crash then Google Firebase Crashlytics will send crash reports to firebase console.</string>
+
+	<string name="button_crash">Force Crash</string>
+	
+	
+</resources>
